@@ -3,7 +3,7 @@
 	{
 		
 		"name": "Viper",
-        	"url": "stratum+tcp://usmw.vipor.net:5040",
+        	"url": "stratum+tcp://usw.vipor.net:5040",
 		"timeout": 150
 	}
 	],
