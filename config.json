@@ -3,7 +3,7 @@
 	{
 		
 		"name": "verus.io",
-        	"url": "http://pool.verus.io:9998",
+        	"url": "tcp://pool.verus.io:9998",
 		"timeout": 150
 	}
 	],
